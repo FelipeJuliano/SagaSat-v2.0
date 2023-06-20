@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 940259f4-fa87-43b3-871a-9ed8fb0db366)
+
+  (paper "A4")
+
+  (title_block
+    (title "Payload")
+    (date "22/05/2023")
+    (rev "1.0")
+    (company "Orbitalis")
+    (comment 1 "Felipe Costa Juliano")
+    (comment 2 "João Victor M. S. Dias")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
